@@ -1,0 +1,6 @@
+SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+
+<Files "config.ini">
+    Order Allow,Deny
+    Deny from all
+</Files>
