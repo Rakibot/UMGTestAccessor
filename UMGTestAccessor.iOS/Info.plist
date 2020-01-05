@@ -23,8 +23,6 @@
 	<string>UMGTestAccessor</string>
 	<key>CFBundleIdentifier</key>
 	<string>mx.edu.umg-test-accessor</string>
-	<key>UILaunchStoryboardName</key>
-	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
 	<string>UMGTestAccessor</string>
 	<key>NSCameraUsageDescription</key>
@@ -33,5 +31,7 @@
 	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>CFBundleVersion</key>
 	<string>0.1.1</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
 </dict>
 </plist>

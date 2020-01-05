@@ -12,9 +12,9 @@ namespace UMGTestAccessor.API
     public class GZCore
     {
 #if DEBUG
-        public const string SERVER_URL = "http://192.168.0.101/gzcore/index.php";
-#else
         public const string SERVER_URL = "http://rakibot.com/demos/virgil/gzcore/index.php";
+#else
+        public const string SERVER_URL = "https://derechoexamen.marista.mx/gzcore/index.php";
 #endif
         public const int SERVER_TIMEOUT = 60000;
         public const int MAX_LOGIN_REQUEST = 3;

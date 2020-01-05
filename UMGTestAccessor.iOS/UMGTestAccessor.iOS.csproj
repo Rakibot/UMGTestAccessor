@@ -82,27 +82,27 @@
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Assets.xcassets\logomarista.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\logomarista.imageset\logomarista.png" />
     <ImageAsset Include="Assets.xcassets\no_name.imageset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\no_name.imageset\no_name.jpg" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-40.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-60.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-58.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-87.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-80.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-40-3.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-60-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-58-2.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-87-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-80-2.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-120-2.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-120.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-120-1.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-180.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-20.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-180-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-20-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-40.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-29-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-58.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-40-1.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-29.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-58-1.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-40-2.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-80-1.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-76.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-152.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-167.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-1024.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-80.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-76-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-152-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-167-1.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon-1024-1.png" />
+    <ImageAsset Include="Assets.xcassets\logomarista.imageset\logomarista-1.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -141,5 +141,9 @@
   <ItemGroup>
     <Folder Include="Assets.xcassets\logomarista.imageset\" />
     <Folder Include="Assets.xcassets\no_name.imageset\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ITunesArtwork Include="iTunesArtwork" />
+    <ITunesArtwork Include="iTunesArtwork%402x" />
   </ItemGroup>
 </Project>

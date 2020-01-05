@@ -26,7 +26,9 @@ namespace UMGTestAccessor.Pages
             WidthRequest = FIELDS_SIZE,
             HeightRequest = DIAMETER,
             HorizontalOptions = LayoutOptions.CenterAndExpand,
-            IsPassword = true
+            IsPassword = true,
+            BackgroundColor = Color.White,
+            TextColor = Color.Black
         };
         public LoginPage()
         {
